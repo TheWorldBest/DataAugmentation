@@ -3,6 +3,7 @@
 #include <iostream>
 #include <opencv2/highgui/highgui.hpp>
 
+// 该类主要用于数据扩充
 using namespace std;
 using namespace cv;
 
